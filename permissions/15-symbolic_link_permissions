@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp _hello vincenet staff
+chgrp vincenet:staff _hello
